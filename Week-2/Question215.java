@@ -8,7 +8,7 @@ public class Question215 {
         nptel = "NPTEL";
         space = " ";
         java = "JAVA";
-        System.out.print(nptel+space+java+space+nptel);
+        System.out.print(nptel+space+java+space+nptel); 
 
     }
 }
