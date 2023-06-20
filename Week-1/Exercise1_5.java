@@ -26,6 +26,6 @@ public class Exercise1_5 {
         mark_avg = mark_avg / arr.length;
 
         System.out.println(result);
-        System.out.println(mark_avg);
+        System.out.println(mark_avg); 
     }
 }
